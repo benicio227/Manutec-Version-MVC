@@ -1,0 +1,53 @@
+﻿@model List<Manutec.Application.Models.VehicleModel.VehicleAllViewModel>
+
+@{
+    ViewData["Title"] = "Veículos do Cliente";
+    var customerId = ViewBag.CustomerId;
+}
+
+<h2>Veículos do Cliente</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Nenhum veículo cadastrado.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Ano</th>
+                <th>Placa</th>
+                <th>Quilometragem Atual</th>
+                <th>Tolerância em Km</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vehicle in Model)
+            {
+                <tr>
+                    <td>@vehicle.Brand</td>
+                    <td>@vehicle.Model</td>
+                    <td>@vehicle.Year</td>
+                    <td>@vehicle.LicensePlate</td>
+                    <td>@vehicle.CurrentMileage</td>
+                    <td>@vehicle.ToleranceKm</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "Vehicle", new { customerId = customerId, id = vehicle.Id })" class="btn btn-warning btn-sm">Editar</a>
+                        <a href="@Url.Action("Delete", "Vehicle", new { customerId = customerId, id = vehicle.Id })" class="btn btn-warning btn-sm">Excluir</a>
+                        <a href="@Url.Action("Details", "Vehicle", new { customerId = customerId, id = vehicle.Id })" class="btn btn-warning btn-sm">Detalhes</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-center mt-4">
+        <hr />
+        <a asp-controller="Dashboard" asp-action="Index" class="btn btn-outline-secondary">
+            Voltar para o Dashboard
+        </a>
+    </div>
+}

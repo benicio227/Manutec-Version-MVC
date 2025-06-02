@@ -1,0 +1,32 @@
+﻿@model Manutec.Application.Models.UserModel.GetByIdUserViewModel
+
+@{
+    ViewData["Title"] = "Excluir Usuário";
+}
+
+<h2>Confirmar Exclusão</h2>
+
+<div class="alert alert-warning">
+    <strong>Atenção:</strong> Tem certeza que deseja excluir o usuário <strong>@Model.UserName</strong>?
+</div>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">ID</dt>
+            <dd class="col-sm-9">@Model.Id</dd>
+
+            <dt class="col-sm-3">Nome</dt>
+            <dd class="col-sm-9">@Model.UserName</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+        </dl>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Sim, excluir</button>
+            <a asp-action="Listar" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Application.deps.json
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Application.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Application.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Core.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Infrastructure.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Core.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\bin\Debug\net8.0\Manutec.Infrastructure.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.csproj.AssemblyReference.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.AssemblyInfoInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.AssemblyInfo.cs
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.csproj.CoreCompileInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec..B47F8428.Up2Date
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\refint\Manutec.Application.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\Manutec.Application.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Application\obj\Debug\net8.0\ref\Manutec.Application.dll

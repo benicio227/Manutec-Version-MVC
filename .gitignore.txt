@@ -1,0 +1,129 @@
+## === CONFIGURAÇÃO GERAL ===
+
+# Pastas de build
+bin/
+obj/
+out/
+TestResults/
+Generated_Code/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+*.pdb
+*.mdb
+
+# Arquivos de pacotes
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de backup e lock
+*.bak
+*.orig
+*.swp
+
+# Arquivos de banco local
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.mdf
+*.ldf
+
+# Arquivos de configurações locais
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos do VS
+.vs/
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+
+# Arquivos do Rider
+.idea/
+*.sln.iml
+
+# Arquivos do Visual Studio Code
+.vscode/
+.history/
+
+# Configurações e variáveis de ambiente
+*.env
+*.env.*
+!.env.example
+
+# Logs de execução
+*.log
+logs/
+
+# Arquivos de publicação
+publish/
+wwwroot/
+node_modules/
+lib/
+
+# Coverage
+coverage/
+*.lcov
+*.coverage
+*.coveragexml
+
+# Arquivos do Azure
+appsettings.Development.json
+appsettings.Local.json
+
+# Arquivos de build do MSBuild
+*.Build.cs
+*.Build.csproj
+
+# Arquivos gerados
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Arquivos de testes
+*.testresults
+*.trx
+*.coverage
+*.testsettings
+
+# Arquivos de pacote NuGet
+*.nuspec
+*.nupkg
+
+# Snapshots
+.snapshots/
+
+# Dumps
+*.dmp
+
+# Outros
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.sdf
+*.opensdf
+*.tlog
+*.idb
+*.ipch
+*.iobj
+*.sbr
+*.pfx
+*.publishsettings
+
+# Visual Studio
+.vs/
+bin/
+obj/

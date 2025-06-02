@@ -1,0 +1,47 @@
+﻿@model Manutec.Application.Commands.VehicleEntity.InsertVehicleCommand
+
+
+@{
+    ViewData["Title"] = "Cadastrar Veículo";
+    var customerId = ViewBag.CustomerId;
+}
+
+<h2>Cadastrar Veículo</h2>
+
+
+<form asp-action="Register" asp-route-customerId="@customerId" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="Brand" class="control-label">Marca</label>
+        <input asp-for="Brand" class="form-control" />
+        <span asp-validation-for="Brand" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Model" class="control-label">Modelo</label>
+        <input asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Year" class="control-label">Ano</label>
+        <input asp-for="Year" class="form-control" />
+        <span asp-validation-for="Year" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LicensePlate" class="control-label">Placa</label>
+        <input asp-for="LicensePlate" class="form-control" />
+        <span asp-validation-for="LicensePlate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-3">
+        <input type="submit" value="Cadastrar" class="btn btn-primary mt-3" />
+        <a asp-action="List" asp-route-customerId="@customerId" class="btn btn-secondary mt-3">Voltar</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

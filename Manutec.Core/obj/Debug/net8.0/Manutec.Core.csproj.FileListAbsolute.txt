@@ -1,0 +1,11 @@
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\bin\Debug\net8.0\Manutec.Core.deps.json
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\bin\Debug\net8.0\Manutec.Core.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\bin\Debug\net8.0\Manutec.Core.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.AssemblyInfoInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.AssemblyInfo.cs
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.csproj.CoreCompileInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\refint\Manutec.Core.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\Manutec.Core.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Core\obj\Debug\net8.0\ref\Manutec.Core.dll

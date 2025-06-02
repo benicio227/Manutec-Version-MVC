@@ -1,0 +1,50 @@
+﻿@model List<Manutec.Application.Models.MaintenanceModel.MaintenancesViewModel>
+
+@{
+    ViewData["Title"] = "Todas as Manutenções da Oficina";
+}
+
+<h2>Manutenções da Oficina</h2>
+
+<p>Qtd de Manutenções: @Model?.Count</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Veículo</th>
+            <th>Tipo</th>
+            <th>Descrição</th>
+            <th>Data Agendada</th>
+            <th>Km Agendado</th>
+            <th>Data Realizada</th>
+            <th>Km Realizado</th>
+            <th>Custo</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.VehiclePlate</td> 
+                <td>@item.Type</td>
+                <td>@item.Description</td>
+                <td>@item.ScheduledDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.ScheduledMileage km</td>
+                <td>@(item.PerformedDate?.ToString("dd/MM/yyyy") ?? "-")</td>
+                <td>@(item.PerformedMileage?.ToString() ?? "-") km</td>
+                <td>R$ @item.Cost.ToString("N2")</td>
+                <td>
+                    <a asp-action="ByVehicle" asp-route-vehicleId="@item.VehicleId" class="btn btn-info btn-sm">Detalhes do Veículo</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <hr />
+    <a asp-controller="Dashboard" asp-action="Index" class="btn btn-outline-secondary">
+        Voltar para o Dashboard
+    </a>
+</div>

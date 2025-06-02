@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <h2 class="mb-4">Bem-vindo ao Painel da Oficina</h2>
+
+        <ul class="list-unstyled">
+            <li>
+                <a class="btn btn-primary botao-dashboard" asp-controller="Customer" asp-action="Create">Cadastrar Cliente</a>
+                <a class="btn btn-secondary botao-dashboard" asp-controller="Customer" asp-action="Index">Listar Clientes</a>
+            </li>
+        </ul>
+
+        <ul class="list-unstyled">
+            <li>
+                <a class="btn btn-primary botao-dashboard" asp-controller="Usuario" asp-action="Create">Cadastrar Usuário</a>
+                <a class="btn btn-secondary botao-dashboard" asp-controller="Usuario" asp-action="Listar">Listar Usuários</a>
+            </li>
+        </ul>
+
+        <ul class="list-unstyled">
+            <li>
+                <a class="btn btn-primary botao-dashboard" asp-controller="Maintenance" asp-action="Create">Cadastrar Manutenção</a>
+                <a class="btn btn-secondary botao-dashboard" asp-controller="Maintenance" asp-action="Index">Listar Manutenções</a>
+            </li>
+        </ul>
+    </div>
+</div>

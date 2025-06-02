@@ -1,0 +1,52 @@
+﻿@model List<Manutec.Application.Models.CustomerModel.GetAllCustomerViewModel>
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<h2>Clientes</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+         @foreach (var customer in Model)
+        {
+            <tr> 
+                <td>@customer.Name</td>
+                <td>@customer.Phone</td>
+                <td>@customer.Email</td>
+                <td>
+                    <a asp-controller="Customer" asp-action="Details" asp-route-id="@customer.Id" class="btn btn-info btn-sm">Detalhes</a>
+                    <a asp-controller="Customer" asp-action="Edit" asp-route-id="@customer.Id" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-controller="Customer" asp-action="Delete" asp-route-id="@customer.Id" class="btn btn-danger btn-sm">Excluir</a>
+                    <a asp-controller="Vehicle" asp-action="List" asp-route-customerId="@customer.Id" class="btn btn-secondary btn-sm">Ver Veículos</a>
+                    <a href="/customers/@customer.Id/vehicles/register" class="btn btn-success btn-sm">Cadastrar Veículo</a>
+                </td>
+            </tr>
+        } 
+    </tbody>
+</table>
+
+<div class="text-center mt-4">
+    <hr />
+    <a asp-controller="Dashboard" asp-action="Index" class="btn btn-outline-secondary">
+        Voltar para o Dashboard
+    </a>
+</div>

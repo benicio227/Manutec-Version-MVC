@@ -1,0 +1,19 @@
+﻿@model Manutec.Application.Models.VehicleModel.GetByIdVehicleViewModel
+
+@{
+    ViewData["Title"] = "Excluir Veículo";
+    var customerId = ViewBag.CustomerId;
+}
+
+<h2>Confirmação de Exclusão</h2>
+
+<p>Tem certeza que deseja excluir o veículo <strong>@Model.Brand @Model.Model</strong> (Placa: <strong>@Model.LicensePlate</strong>)?</p>
+
+<form asp-action="DeleteConfirmed" asp-route-customerId="@customerId" asp-route-id="@Model.Id" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.Id" />
+    <input type="hidden" name="customerId" value="@customerId" />
+
+    <button type="submit" class="btn btn-danger">Excluir</button>
+    <a href="/customers/@customerId/vehicles" class="btn btn-secondary">Cancelar</a>
+</form>

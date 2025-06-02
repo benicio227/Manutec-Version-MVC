@@ -1,0 +1,17 @@
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Infrastructure.deps.json
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Infrastructure.runtimeconfig.json
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Infrastructure.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Infrastructure.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Core.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\bin\Debug\net8.0\Manutec.Core.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.csproj.AssemblyReference.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.AssemblyInfoInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.AssemblyInfo.cs
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec..45240793.Up2Date
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\refint\Manutec.Infrastructure.dll
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.pdb
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\Manutec.Infrastructure.genruntimeconfig.cache
+D:\ProjetosProprios\Manutec.MVC\Manutec.Infrastructure\obj\Debug\net8.0\ref\Manutec.Infrastructure.dll

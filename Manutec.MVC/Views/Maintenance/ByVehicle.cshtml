@@ -1,0 +1,33 @@
+﻿@model Manutec.Application.Models.MaintenanceModel.MaintenancesByVehicleViewModel
+
+@{
+    ViewData["Title"] = "Detalhes do Veículo";
+}
+
+<h2>Detalhes do Veículo</h2>
+
+<div class="card mt-3">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Marca</dt>
+            <dd class="col-sm-9">@Model.Brand</dd>
+
+            <dt class="col-sm-3">Modelo</dt>
+            <dd class="col-sm-9">@Model.Model</dd>
+
+            <dt class="col-sm-3">Ano</dt>
+            <dd class="col-sm-9">@Model.Year</dd>
+
+            <dt class="col-sm-3">Placa</dt>
+            <dd class="col-sm-9">@Model.LicensePlate</dd>
+
+            <dt class="col-sm-3">Km Atual</dt>
+            <dd class="col-sm-9">@Model.CurrentMileage km</dd>
+
+            <dt class="col-sm-3">Tolerância (Km)</dt>
+            <dd class="col-sm-9">@Model.ToleranceKm km</dd>
+        </dl>
+
+        <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </div>
+</div>

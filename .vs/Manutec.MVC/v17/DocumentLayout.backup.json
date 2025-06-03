@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\ProjetosProprios\\Manutec.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|d:\\projetosproprios\\manutec.mvc\\manutec.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|solutionrelative:manutec.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|d:\\projetosproprios\\manutec.mvc\\manutec.mvc\\views\\maintenance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|solutionrelative:manutec.mvc\\views\\maintenance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|d:\\projetosproprios\\manutec.mvc\\manutec.mvc\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|solutionrelative:manutec.mvc\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|d:\\projetosproprios\\manutec.mvc\\manutec.mvc\\views\\workshop\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|solutionrelative:manutec.mvc\\views\\workshop\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|d:\\projetosproprios\\manutec.mvc\\manutec.mvc\\controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEC694-ADC1-4000-B925-09E7C869D9BF}|Manutec.MVC\\Manutec.MVC.csproj|solutionrelative:manutec.mvc\\controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Manutec.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Manutec.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:03:38.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Maintenance\\Index.cshtml",
-              "RelativeDocumentMoniker": "Manutec.MVC\\Views\\Maintenance\\Index.cshtml",
-              "ToolTip": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Maintenance\\Index.cshtml",
-              "RelativeToolTip": "Manutec.MVC\\Views\\Maintenance\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswBgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:02:44.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Customer\\List.cshtml",
-              "RelativeDocumentMoniker": "Manutec.MVC\\Views\\Customer\\List.cshtml",
-              "ToolTip": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\Customer\\List.cshtml",
-              "RelativeToolTip": "Manutec.MVC\\Views\\Customer\\List.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCYAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:01:51.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\WorkShop\\Register.cshtml",
-              "RelativeDocumentMoniker": "Manutec.MVC\\Views\\WorkShop\\Register.cshtml",
-              "ToolTip": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Views\\WorkShop\\Register.cshtml",
-              "RelativeToolTip": "Manutec.MVC\\Views\\WorkShop\\Register.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:01:25.698Z",
+              "Title": "WorkShopController.cs",
+              "DocumentMoniker": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Controllers\\WorkShopController.cs",
+              "RelativeDocumentMoniker": "Manutec.MVC\\Controllers\\WorkShopController.cs",
+              "ToolTip": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.MVC\\Controllers\\WorkShopController.cs",
+              "RelativeToolTip": "Manutec.MVC\\Controllers\\WorkShopController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:25:07.723Z",
               "EditorCaption": ""
             }
           ]

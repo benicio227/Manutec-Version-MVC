@@ -127,3 +127,36 @@ _ReSharper*/
 .vs/
 bin/
 obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET
+*.dbmdl
+*.bak
+*.sql
+*.psess
+*.vsp
+*.pdb
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Others
+*.cache
+*.sourcelink.json

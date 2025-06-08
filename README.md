@@ -1,4 +1,4 @@
-# Manutec – Sistema de Gestão de Manutenções Veiculares
+# Sistema de Gestão de Manutenções Veiculares
 
 A **Manutec** é uma aplicação web desenvolvida com **.NET 8**, focada no gerenciamento de oficinas mecânicas. O projeto adota uma arquitetura em camadas e os princípios do **Domain Driven Design (DDD)**, permitindo o controle completo de clientes, veículos, serviços e manutenções.
 
@@ -71,4 +71,4 @@ Benício Brandão
 - Desenvolvedor Backend C# | .NET
 - 📧 beniciobrandao@hotmail.com
 - 🔗 www.linkedin.com/in/benicio-brandao
-- 🐙 benicio227
+- 🐙 https://github.com/benicio227

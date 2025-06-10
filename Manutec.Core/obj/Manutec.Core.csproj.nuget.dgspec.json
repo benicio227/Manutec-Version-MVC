@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.Core\\Manutec.Core.csproj": {}
+    "D:\\ProjetosProprios\\Manutec.MVC\\Manutec-Version-MVC\\Manutec.Core\\Manutec.Core.csproj": {}
   },
   "projects": {
-    "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.Core\\Manutec.Core.csproj": {
+    "D:\\ProjetosProprios\\Manutec.MVC\\Manutec-Version-MVC\\Manutec.Core\\Manutec.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.Core\\Manutec.Core.csproj",
+        "projectUniqueName": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec-Version-MVC\\Manutec.Core\\Manutec.Core.csproj",
         "projectName": "Manutec.Core",
-        "projectPath": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.Core\\Manutec.Core.csproj",
+        "projectPath": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec-Version-MVC\\Manutec.Core\\Manutec.Core.csproj",
         "packagesPath": "C:\\Users\\Teste\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec.Core\\obj\\",
+        "outputPath": "D:\\ProjetosProprios\\Manutec.MVC\\Manutec-Version-MVC\\Manutec.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

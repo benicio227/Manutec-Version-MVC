@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Manutec.Core
-build_property.ProjectDir = D:\ProjetosProprios\Manutec.MVC\Manutec.Core\
+build_property.ProjectDir = D:\ProjetosProprios\Manutec.MVC\Manutec-Version-MVC\Manutec.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

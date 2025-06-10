@@ -17,123 +17,123 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Manutec.MVC
 build_property.RootNamespace = Manutec.MVC
-build_property.ProjectDir = D:\ProjetosProprios\Manutec.MVC\Manutec.MVC\
+build_property.ProjectDir = D:\ProjetosProprios\Manutec.MVC\Manutec-Version-MVC\Manutec.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ProjetosProprios\Manutec.MVC\Manutec.MVC
+build_property.MSBuildProjectDirectory = D:\ProjetosProprios\Manutec.MVC\Manutec-Version-MVC\Manutec.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Customer/Create.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Customer/Delete.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Customer/Details.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Customer/Edit.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Customer/List.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Customer/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Dashboard/Index.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Home/Index.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Home/Privacy.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Login/Login.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Maintenance/ByVehicle.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Maintenance/ByVehicle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcQnlWZWhpY2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Maintenance/Create.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Maintenance/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Maintenance/Index.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Maintenance/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Shared/Error.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/User/Create.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/User/Delete.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/User/Details.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/User/Edit.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/User/Listar.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/User/Listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Vehicle/Delete.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Vehicle/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Vehicle/Details.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Vehicle/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Vehicle/Edit.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Vehicle/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Vehicle/List.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Vehicle/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Vehicle/Register.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Vehicle/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/WorkShop/Register.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/WorkShop/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nob3BcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/_ViewImports.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/_ViewStart.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosProprios/Manutec.MVC/Manutec.MVC/Views/Shared/_Layout.cshtml]
+[D:/ProjetosProprios/Manutec.MVC/Manutec-Version-MVC/Manutec.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-23k7p1uum2

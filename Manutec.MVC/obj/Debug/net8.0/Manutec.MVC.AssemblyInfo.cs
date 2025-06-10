@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manutec.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6739b8967defe7f3fa7999ded1e005adb406810")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96a47d7ef3d51efe41c454b62eb9dc4f0673ae56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manutec.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manutec.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
